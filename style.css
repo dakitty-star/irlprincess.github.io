@@ -1,4 +1,12 @@
+head {
+    text-align: center;
+}
+
 body{
     background-image: url(Background.jpg);
     background-color: #cccccc;
+    text-align: center;
+}
+div {
+    text-align: center;
 }
