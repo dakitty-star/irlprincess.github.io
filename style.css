@@ -1,4 +1,6 @@
 body {
+    background-image: url(Background.jpg);
+    background-size: 450px;
     background-color: #f8f1f1;
     font-family: 'Arial', sans-serif;
     display: flex;
@@ -24,8 +26,8 @@ body {
 }
 
 .profile-picture {
-    width: 100px;
-    height: 100px;
+    width: 25px;
+    height: 25px;
     border-radius: 50%;
     border: 2px solid #f0dcdc;
     margin-bottom: 20px;
